@@ -2,6 +2,23 @@
 
 ---
 
+## [RESSOURCES] Dragos 2020 ICS report
+_24/02/2020_
+```
+Here is the report on industrial cybersecurity in 2020 made by the company Dragos. To summarize the 45 pages:
+- Dragos has identified 4 new groups targeting ICS (STIBNITE, TALONITE, KAMACITE, VANADINITE)
+- Abuse of legitimate accounts is the primary source of threat
+- 64% of the security advisories published on ICS in 2020 did not have a patch
+- The reuse of third party libraries in ICS has created two important vulnerabilities : Ripple20 and AMNESIA33
+- Dragos also looks back at the EKANS ransomware that has touched Honda, Enel and Fresenius Kabi
+- The report also refers to the PARISITE and MAGNALLIUM groups, which target devices at the edge of ICS environments (VPN, RDP).
+- 33% of the published security advisories did not have a valid CVSS score.
+
+Source : https://hub.dragos.com/hubfs/Year-in-Review/Dragos_2020_ICS_Cybersecurity_Year_In_Review.pdf
+```
+
+---
+
 ## [VULNERABILITY] Advantech BB-ESWGP506-2SFP-T
 _24/02/2021_
 ```
