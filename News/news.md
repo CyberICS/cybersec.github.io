@@ -2,6 +2,27 @@
 
 ---
 
+## [VULNERABILITY] PerFact OpenVPN-Client
+_25/02/2021_
+```
+Vulnerability affects :
+- OpenVPN-Client, Versions 1.4.1.0 and prior
+
+Vulnerability risks:
+- remote code execution through a malicious webpage
+- Privilege escalation
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-056-01)
+
+> ###### CVE :
+> - [EN] [CVE-2021-27406](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27406)
+
+---
+
 ## [VULNERABILITY] Fatek FvDesigner
 _25/02/2021_
 ```
