@@ -2,6 +2,29 @@
 
 ---
 
+## [VULNERABILITY] ProSoft Technology ICX35
+_25/02/2021_
+```
+Vulnerability affects :
+- ICX35-HWC-A: Versions 1.9.62 and prior
+- ICX35-HWC-E: Versions 1.9.62 and prior
+
+Vulnerability risks:
+- Change the current user’s password
+- Alter device configurations
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-056-04)
+- [EN] [Belden](https://www.belden.com/dfsmedia/f1e38517e0cd4caa8b1acb6619890f5e/12277-source/options/view)
+
+> ###### CVE :
+> - [EN] [CVE-2021-22661](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22661)
+
+---
+
 ## [RESSOURCES] Dragos 2020 ICS report
 _24/02/2020_
 ```
