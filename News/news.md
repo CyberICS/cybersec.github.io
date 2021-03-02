@@ -1,6 +1,43 @@
 # Industrial cybersecurity news
 
 ---
+
+## [VULNERABILITY] MB connect line mbCONNECT24, mymbCONNECT24
+_02/03/2021_
+```
+Vulnerability affects :
+- mymbCONNECT24 v2.6.1 and prior
+- mbCONNECT24 v2.6.1 and prior
+
+Vulnerability risks:
+- RCE
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-061-03)
+
+> ###### CVE :
+> - [EN] [CVE-2020-12527](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-12527)
+> - [EN] [CVE-2020-12528](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-12528)
+> - [EN] [CVE-2020-12530](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-12530)
+> - [EN] [CVE-2020-35557](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35557)
+> - [EN] [CVE-2020-35558](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35558)
+> - [EN] [CVE-2020-35559](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35559)
+> - [EN] [CVE-2020-35560](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35560)
+> - [EN] [CVE-2020-35561](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35561)
+> - [EN] [CVE-2020-35563](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35563)
+> - [EN] [CVE-2020-35564](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35564)
+> - [EN] [CVE-2020-35565](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35565)
+> - [EN] [CVE-2020-35566](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35566)
+> - [EN] [CVE-2020-35568](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35568)
+> - [EN] [CVE-2020-35569](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35569)
+> - [EN] [CVE-2020-35570](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-35570)
+> - [EN] [CVE-2020-10384](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10384)
+
+
+---
 ## [RESSOURCES] TTPs about KAMACITE group 
 _01/03/2021_
 ```
