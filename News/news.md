@@ -2,6 +2,30 @@
 
 ---
 
+## [VULNERABILITY] Rockwell Automation 1734-AENTR Series B and Series C
+_04/03/2021_
+```
+Vulnerability affects :
+-  1734-AENTR Series B, Versions 4.001 to 4.005, and 5.011 to 5.017
+-  1734-AENTR Series C, Versions 6.011 and 6.012
+
+Vulnerability risks:
+- unauthorized data modification
+
+Update are available
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-063-01)
+- [EN] [Rockwell - login required](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1130321)
+
+> ###### CVE :
+> - [EN] [CVE-2020-14502](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14502)
+> - [EN] [CVE-2020-14504](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-14504)
+
+---
+
 ## [VULNERABILITY] Schneider Electric EcoStruxure Building Operation (EBO)
 _04/03/2021_
 ```
