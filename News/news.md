@@ -1,5 +1,32 @@
 # Industrial cybersecurity news
 
+---
+
+## [ATTACK] Phishing and information theft campaign targeting many industries
+_04/03/2021_
+```
+A new phshing campaign with the aim of stealing information is underway in different parts of the world using AZORult malware.
+The targets that have been targeted are :
+- Oil and gas supply chain industries and international maritime organizations in the Middle East.
+- A supplier of commercial refrigerators, a supplier of heavy electrical engineering equipment, a manufacturer of optical components and a provider of intelligent automation solutions in Europe
+- An industrial process and factory automation company, a manufacturer of building materials and a transportation services company in Asia
+- A U.S. manufacturer of non-slip covers
+- An aerospace company in India
+- A development company in South Korea
+- A service provider to the oil and gas industry in the UAE
+- A logistics and transport company in the UAE
+- The national oil and gas company of Sri Lanka
+- An oil and gas company in China
+- Petrochemical and textile companies in China
+
+IOCs are available in the sources.
+```
+
+> ###### Sources :
+- [EN] [DENEXUS](https://www.denexus.io/wp-content/uploads/2021/02/Threat-actor-targeting-gas-oil-supply-chains_public.pdf)
+- [EN] [Zscaler](https://www.zscaler.com/blogs/security-research/targeted-attacks-oil-and-gas-supply-chain-industries-middle-east)
+
+---
 ## [VULNERABILITY] Hitachi ABB Power Grids Ellipse EAM
 _02/03/2021_
 ```
