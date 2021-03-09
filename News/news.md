@@ -2,6 +2,29 @@
 
 ---
 
+## [VULNERABILITY] Siemens SCALANCE and RUGGEDCOM Devices SSH
+_09/03/2021_
+```
+Vulnerability affects :
+- RUGGEDCOM RM1224: v6.3
+- SCALANCE M-800: v6.3
+- SCALANCE: S615: v6.3
+- SCALANCE SC-600: All versions from v2.1 and prior to v2.1.3
+
+Vulnerability risks:
+- DoS
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-296266.pdf)
+
+> ###### CVE :
+> - [EN] [CVE-2021-25676](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25676)
+
+---
+
 ## [VULNERABILITY] Siemens SCALANCE and RUGGEDCOM Devices
 _09/03/2021_
 ```
