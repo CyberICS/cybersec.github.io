@@ -2,6 +2,31 @@
 
 ---
 
+## [VULNERABILITY] Siemens Solid Edge File Parsing
+_09/03/2021_
+```
+Vulnerability affects :
+- Solid Edge SE2020: All versions before SE2020MP13
+- Solid Edge SE2021: Versions SE2021MP3 and prior
+
+Vulnerability risks:
+- Arbitrary code execution
+- Data extraction
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Siemens](https://new.siemens.com/global/en/products/services/cert.html#SecurityPublications)
+
+> ###### CVE :
+> - [EN] [CVE-2020-28385](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28385)
+> - [EN] [CVE-2020-28387](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28387)
+> - [EN] [CVE-2021-27380](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27380)
+> - [EN] [CVE-2021-27381](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27381)
+
+---
+
 ## [VULNERABILITY]  Siemens SCALANCE and SIMATIC libcurl
 _09/03/2021_
 ```
