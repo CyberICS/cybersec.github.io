@@ -2,6 +2,27 @@
 
 ---
 
+## [VULNERABILITY] Siemens LOGO! 8 BM
+_09/03/2021_
+```
+Vulnerability affects :
+- LOGO! 8 BM (incl. SIPLUS variants): All versions
+
+Vulnerability risks:
+- DoS
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-068-05)
+- [EN] [Siemens](https://www.siemens.com/cert/advisories)
+
+> ###### CVE :
+> - [EN] [CVE-2020-25236](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-25236)
+
+---
+
 ## [VULNERABILITY] TCP/IP Stack Vulnerabilities–AMNESIA:33 in SENTRON PAC / 3VA Devices
 _09/03/2021_
 ```
