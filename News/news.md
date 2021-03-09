@@ -2,6 +2,27 @@
 
 ---
 
+## [VULNERABILITY] Siemens Energy PLUSCONTROL 1st Gen
+_09/03/2021_
+```
+Vulnerability affects :
+- PLUSCONTROL 1st Gen: all versions
+
+Vulnerability risks:
+- Affect integrity of TCP connections
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Siemens](https://www.siemens.com/cert/advisories)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-068-08)
+
+> ###### CVE :
+> - [EN] [CVE-2020-28388](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-28388)
+
+---
+
 ## [VULNERABILITY] Siemens Solid Edge File Parsing
 _09/03/2021_
 ```
