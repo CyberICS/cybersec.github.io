@@ -2,6 +2,28 @@
 
 ---
 
+## [VULNERABILITY]  Siemens SCALANCE and SIMATIC libcurl
+_09/03/2021_
+```
+Vulnerability affects :
+- SCALANCE SC600 Family: all versions prior to v2.0
+- SIMATIC NET CM 1542-1: all versions
+
+
+Vulnerability risks:
+- DoS
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-436177.pdf)
+
+> ###### CVE :
+> - [EN] [CVE-2019-3823](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-3823)
+
+---
+
 ## [VULNERABILITY] Schneider Electric PowerLogic ION line of meters
 _09/03/2021_
 ```
