@@ -2,6 +2,36 @@
 
 ---
 
+## [VULNERABILITY] Schneider Electric PowerLogic ION line of meters
+_09/03/2021_
+```
+Vulnerability affects :
+- ION8650 (prior to V4.40.1)
+- ION8800 (prior to V372)
+- ION7650 Hardware rev. 4 or earlier (prior to V376)
+- ION7650 Hardware rev. 5 (prior to V416)
+- ION7700/73xx (all versions)
+- ION83xx/84xx/8600 (all versions)
+
+Vulnerability risks:
+- remotely execute code
+- reboot the meter
+- denial-of-service condition
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Claroty](https://www.claroty.com/2021/03/09/blog-research-schneider-electric-smart-meter-vulnerabilities/)
+- [EN] [Schneider](https://www.se.com/ww/en/download/document/SEVD-2021-068-02/)
+- [EN] [Schneider](https://www.se.com/ww/en/download/document/SEVD-2021-068-03/)
+
+> ###### CVE :
+> - [EN] [CVE-2021-22713](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22713)
+> - [EN] [CVE-2021-22714](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22714)
+
+---
+
 ## [VULNERABILITY] Rockwell Automation 1734-AENTR Series B and Series C
 _04/03/2021_
 ```
