@@ -2,6 +2,36 @@
 
 ---
 
+## [VULNERABILITY] Siemens SCALANCE and RUGGEDCOM Devices
+_09/03/2021_
+```
+Vulnerability affects :
+- RUGGEDCOM RM1224: All versions v4.3 and later
+- SCALANCE M-800: All versions v4.3 and later
+- SCALANCE S615: All versions v4.3 and later
+- SCALANCE SC-600 Family: All versions from v2.0 and prior to v2.1.3
+- SCALANCE X300WG: All versions prior to v4.1
+- SCALANCE XM400: All versions prior to v6.2
+- SCALANCE XR500: All versions prior to v6.2
+- SCALANCE Xx200 Family: All versions prior to v4.1
+
+Vulnerability risks:
+- Remote code execution
+- Reboot device
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-979775.pdf)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-068-03)
+
+> ###### CVE :
+> - [EN] [CVE-2021-25667](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25667)
+
+
+---
+
 ## [VULNERABILITY] Siemens SINEMA Remote Connect Server
 _09/03/2021_
 ```
