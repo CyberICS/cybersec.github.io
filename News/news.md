@@ -2,6 +2,29 @@
 
 ---
 
+## [VULNERABILITY] Siemens SIMATIC S7-PLCSIM
+_09/03/2021_
+```
+Vulnerability affects :
+- SIMATICS S7-PLCSIM v5.4: All versions
+
+Vulnerability risks:
+- DoS
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-256092.pdf)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-068-01)
+
+> ###### CVE :
+> - [EN] [CVE-2021-25675](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25675)
+> - [EN] [CVE-2021-25674](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25674)
+> - [EN] [CVE-2021-25673](http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-25673)
+
+---
+
 ## [VULNERABILITY] Siemens SCALANCE and RUGGEDCOM Devices SSH
 _09/03/2021_
 ```
