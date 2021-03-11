@@ -2,6 +2,30 @@
 
 ---
 
+## [VULNERABILITY] Schneider Electric IGSS SCADA Software
+_11/03/2021_
+```
+Vulnerability affects :
+- IGSS Definition (Def.exe) Version 15.0.0.21041 and prior
+
+Vulnerability risks:
+- remote code execution
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-070-01)
+- [EN] [Schneider](https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2021-068-01)
+
+> ###### CVE :
+> - [EN] [CVE-2021-22709]http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22709)
+> - [EN] [CVE-2021-22710]http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22710)
+> - [EN] [CVE-2021-22711]http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22711)
+> - [EN] [CVE-2021-22712]http://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22712)
+
+---
+
 ## [VULNERABILITY] Siemens SIMATIC S7-PLCSIM
 _09/03/2021_
 ```
