@@ -2,6 +2,44 @@
 
 ---
 
+## [VULNERABILITY] GE UR family
+_16/03/2021_
+```
+Vulnerability affects :
+- GE reports the vulnerabilities affect the following UR family (B30, B90, C30, C60, C70, C95, D30, D60, F35, F60, G30, G60, L30, L60, L90, M60, N60, T35, T60) of advanced protection and control relays:
+  - Vulnerabilities related to SSH Support: firmware versions 7.4x to 8.0x (CyberSentry option)
+  - Web server vulnerabilities: all firmware versions prior to version 8.1x
+  -  Protection from unintended firmware upload: all firmware versions prior to 8.1x with basic security option
+  -  Provisions to disable Factory Mode: all firmware versions prior to 8.1x with basic security option
+  -  Access to “Last-key pressed” register: all firmware versions prior to 8.1x with basic security option
+  -  Weakness in UR bootloader binary: all bootloader versions prior to 7.03/7.04
+
+
+Vulnerability risks:
+- access sensitive information
+- reboot the UR
+- gain privileged access
+- cause a denial-of-service condition
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-075-02)
+
+> ###### CVE :
+> - [EN] [CVE-2016-2183](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-2183)
+> - [EN] [CVE-1999-1085](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-1999-1085)
+> - [EN] [CVE-2021-27422](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27422)
+> - [EN] [CVE-2021-27418](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27418)
+> - [EN] [CVE-2021-27420](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27420)
+> - [EN] [CVE-2021-27428](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27428)
+> - [EN] [CVE-2021-27426](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27426)
+> - [EN] [CVE-2021-27424](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27424)
+> - [EN] [CVE-2021-27430](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27430)
+
+---
+
 ## [VULNERABILITY] Advantech WebAccess/SCADA
 _16/03/2021_
 ```
