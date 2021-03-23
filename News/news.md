@@ -2,6 +2,36 @@
 
 ---
 
+## [VULNERABILITY] Ovarro TBox
+_23/03/2021_
+```
+Vulnerability affects :
+- TBoxLT2 (All models)
+- TBox MS-CPU32
+- TBox MS-CPU32-S2
+- TBox RM2 (All models)
+- TBox TG2 (All models)
+- All versions prior to TWinSoft 12.4 and Firmware 1.46
+
+
+Vulnerability risks:
+- remote code execution
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-054-04)
+
+> ###### CVE :
+> - [EN] [CVE-2021-22646](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22646)
+> - [EN] [CVE-2021-22648](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22648)
+> - [EN] [CVE-2021-22642](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22642)
+> - [EN] [CVE-2021-22640](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22640)
+> - [EN] [CVE-2021-22644](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22644)
+
+---
+
 ## [VULNERABILITY] GE Reason DR60
 _23/03/2021_
 ```
@@ -151,7 +181,7 @@ See the documents below for more information
 
 ---
 
-## [VULNERABILITY] EDR-810 Series Security Router Vulnerabilities
+## [VULNERABILITY] Moxa EDR-810 Series Security Router Vulnerabilities
 _23/03/2021_
 ```
 Vulnerability affects :
