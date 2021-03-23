@@ -2,6 +2,29 @@
 
 ---
 
+## [VULNERABILITY] Hitachi ABB Power Grids eSOMS
+_23/03/2021_
+```
+Vulnerability affects :
+- eSOMS Version 6.0 prior to 6.0.4.2.2
+- eSOMS Version 6.1 prior to 6.1.4
+- eSOMS versions prior to 6.3
+
+Vulnerability risks:
+- access to unauthorized information
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-077-02)
+- [EN] [ABB Hitachi](https://search.abb.com/library/Download.aspx?DocumentID=9AKK107991A8942&LanguageCode=en&DocumentPartId=&Action=Launch)
+
+> ###### CVE :
+> - [EN] [CVE-2021-26845](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-26845)
+
+---
+
 ## [VULNERABILITY] Johnson Controls Exacq Technologies exacqVision
 _23/03/2021_
 ```
