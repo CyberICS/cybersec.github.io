@@ -2,6 +2,35 @@
 
 ---
 
+## [VULNERABILITY] Hitachi ABB Power Grids eSOMS Telerik
+_23/03/2021_
+```
+Vulnerability affects :
+- eSOMS, all versions prior to 6.3 using a version of Telerik software
+
+Vulnerability risks:
+- execute arbitrary code
+- upload malicious files
+- discover sensitive information
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [ABB](https://search.abb.com/library/Download.aspx?DocumentID=9AKK107991A8943&LanguageCode=en&DocumentPartId=&Action=Launch)
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-077-03)
+
+> ###### CVE :
+> - [EN] [CVE-2019-19790](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-19790)
+> - [EN] [CVE-2019-18935](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-18935)
+> - [EN] [CVE-2017-11357](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2017-11357)
+> - [EN] [CVE-2017-11317](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2017-11317)
+> - [EN] [CVE-2017-9248](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2017-9248)
+> - [EN] [CVE-2014-2217](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-2217)
+> - [EN] [CVE-2014-4958](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2014-4958)
+
+---
+
 ## [VULNERABILITY] Hitachi ABB Power Grids eSOMS
 _23/03/2021_
 ```
