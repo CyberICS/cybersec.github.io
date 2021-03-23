@@ -2,6 +2,35 @@
 
 ---
 
+## [VULNERABILITY] Weintek EasyWeb cMT
+_23/03/2021_
+```
+Vulnerability affects :
+- cMT-SVR-1xx/2xx, versions prior to 20210305
+- cMT-G01/G02, versions prior to 20210209
+- cMT-G03/G04, versions prior to 20210222
+- cMT3071/cMT3072/cMT3090/cMT3103/cMT3151, versions prior to 20210218
+- cMT-HDM, versions prior to 20210204
+- cMT-FHD, versions prior to 20210208
+- cMT-CTRL01, versions prior to 20210302
+
+Vulnerability risks:
+-
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-20-082-01)
+- [EN] [Weintek](https://dl.weintek.com/public/Document/TEC/TEC21001E_cMT_EasyWeb_V1_Security_Issues.pdf)
+
+> ###### CVE :
+> - [EN] [CVE-2021-27442)(https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27442)
+> - [EN] [CVE-2021-27444)(https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27444)
+> - [EN] [CVE-2021-27446)(https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27446)
+
+---
+
 ## [VULNERABILITY] Hitachi ABB Power Grids eSOMS Telerik
 _23/03/2021_
 ```
