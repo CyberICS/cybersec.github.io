@@ -2,6 +2,27 @@
 
 ---
 
+## [VULNERABILITY] Johnson Controls Exacq Technologies exacqVision
+_23/03/2021_
+```
+Vulnerability affects :
+- exacqVision Web Service: All supported versions up to and including v20.12.02.0
+
+Vulnerability risks:
+- An unauthenticated attacker could view system-level information about the exacqVision Web Service and the operating system
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-077-01)
+- [EN] [Johnson Controls](https://www.johnsoncontrols.com/-/media/jci/cyber-solutions/product-security-advisories/2021/jci-psa-2021-03-final.pdf?la=en&hash=3843BF52C839909A0DE5AEE5398E18BDE72C71DF)
+
+> ###### CVE :
+> - [EN] [CVE-2021-27656](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27656)
+
+---
+
 ## [VULNERABILITY] EDR-810 Series Security Router Vulnerabilities
 _23/03/2021_
 ```
