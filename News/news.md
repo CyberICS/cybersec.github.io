@@ -21,6 +21,7 @@ See the documents below for more information
 ```
 
 > ###### Sources :
+- [EN] [Claroty](https://www.claroty.com/2021/03/23/blog-research-vulnerabilities-in-tbox-rtus/)
 - [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-054-04)
 
 > ###### CVE :
