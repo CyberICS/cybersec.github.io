@@ -2,6 +2,20 @@
 
 ---
 
+## [ATTACK] A41APT campaign: APT10 targets manufacturing industries  
+_30/03/2021_
+```
+According to Kaspersky, the APT10 threat actor is targeting the manufacturing industry, especially in Japan.
+The actor used a multi-layered loader Ecipekac.
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Securelist](https://securelist.com/apt10-sophisticated-multi-layered-loader-ecipekac-discovered-in-a41apt-campaign/101519/)
+
+---
+
 ## [VULNERABILITY] Ovarro TBox
 _23/03/2021_
 ```
