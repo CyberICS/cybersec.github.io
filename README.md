@@ -12,4 +12,4 @@ Publications :
 
 1. [2020 01 07] Blackenergy 3 malware attack  [FR] [Liens](https://github.com/CyberICS/CyberICS.github.io/blob/master/Publications/2020_01_07_BLACKENERGY_V3.pdf)
 2. [2020 04 04] The EKANS ransomware [FR] [Liens](https://github.com/CyberICS/CyberICS.github.io/blob/master/Publications/2020_04_04_EKANS_RANSOMWARE.pdf)
-
+3. [2021 04 12] The Cring ransomware [EN] [Link](https://github.com/CyberICS/CyberICS.github.io/blob/master/Publications/2021_04_12_Cring_Ransomware.md)
