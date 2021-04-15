@@ -2,6 +2,30 @@
 
 ---
 
+## [VULNERABILITY] Schneider Electric C-Bus Toolkit
+_15/04/2021_
+```
+Vulnerability affects :
+- C-Bus Toolkit v1.15.7 and prior
+
+Vulnerability risks:
+- RCE
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-105-01)
+
+> ###### CVE :
+> - [EN] [CVE-2021-22716](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22716)
+> - [EN] [CVE-2021-22717](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22717)
+> - [EN] [CVE-2021-22718](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22718)
+> - [EN] [CVE-2021-22719](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22719)
+> - [EN] [CVE-2021-22720](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-22720)
+
+---
+
 ## [VULNERABILITY] EIPStackGroup OpENer Ethernet/IP
 _15/04/2021_
 ```
