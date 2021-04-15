@@ -2,6 +2,147 @@
 
 ---
 
+## [VULNERABILITY] Multiple vulnerablity in Siemens product
+_15/04/2021_
+```
+Vulnerability affects :
+- Update of the advisories for SSA-296266 (CVSS 8.6) :
+  - RUGGEDCOM RM1224 V6.3
+  - SCALANCE M-800 V6.3
+  - SCALANCE S615 V6.3
+  - SCALANCE SC-600 All Versions >= V2.1 and < V2.1.3
+- Update of the advisories for SSA-455843 (CVSS 10) :
+  - PSS CAPE Protection Simulation Platform : CAPE  14  installations  installed  from  material dated earlier than 2020-09-15
+  - SICAM 230 : All versions
+  - SIMATIC Information Server 2019 : Version 2019 SP1
+  - SIMATIC PCS neo : All versions < V3.0 SP1
+  - SIMATIC Process Historian 2019 (incl. ProcessHistorian OPC UA Server) : All versions < SP1
+  - SIMATIC WinCC OA : V3.17 P000 - P006 only  affected  by  CVE-2020-14509,  CVE-2020-16233, CVE-2020-14517, CVE-2020-14519
+  - SIMIT Simulation Platform : All versions >= V10.0 and < V10.2 Upd1
+  - SINEC INS : All versions < V1.0 SP1only  affected  by  CVE-2020-14509,  CVE-2020-16233, CVE-2020-14517, CVE-2020-14519
+  - SINEMA Remote Connect : All versions < V3.0 - only  affected  by  CVE-2020-14513,  CVE-2020-14515, CVE-2020-14519
+  - SPPA-S2000 (S7) : V3.04, V3.06
+  - SPPA-S3000 : V3.04
+  - SPPA-S3000 : V3.05
+  - SPPA-T3000 : R8.2 SP2
+- Update of the advisories for SSA-761617 (CVSS 9.8) :
+  - SiNVR/SiVMS Video Server : All versions < V5.0.0
+  - SiNVR/SiVMS Video Server : All versions >= V5.0.0 only affected by CVE-2019-18340
+- Update of the advisories for SSA-763427 (CVSS 9.8) :
+  - SIMATIC NET CP 342-5 (incl. SIPLUS variants) : All versions
+  - SIMATIC NET CP 343-1 Advanced (incl. SIPLUSvariants) : All versions < V3.0.44
+  - SIMATIC NET CP 343-1 Lean (incl. SIPLUS vari-ants) : All versions < V3.1.1
+  - SIMATIC NET CP 343-1 Standard (incl. SIPLUSvariants) : All versions < V3.1.1
+  - SIMATIC NET CP 443-1 Advanced (incl. SIPLUSvariants) : All versions < V3.2.9
+  - SIMATIC NET CP 443-1 Standard (incl. SIPLUSvariants) : All versions < V3.2.9
+  - SIMATIC NET CP 443-5 Basic (incl. SIPLUS vari-ants) : All versions
+  - SIMATIC NET CP 443-5 Extended : All versions
+  - TIM 3V-IE / TIM 3V-IE Advanced (incl. SIPLUSNET variants) : All versions < V2.6.0
+  - TIM 3V-IE DNP3 (incl. SIPLUS NET variants) : All versions < V3.1.0
+  - TIM 4R-IE (incl. SIPLUS NET variants) : All versions < V2.6.0
+  - TIM 4R-IE DNP3 (incl. SIPLUS NET variants) : All versions < V3.1.0
+- Update of the advisories for SSA-979775 (CVSS 8.8) :
+  - RUGGEDCOM RM1224 : All versions >= V4.3 and < V6.4
+  - SCALANCE M-800 : All versions >= V4.3 and < V6.4
+  - SCALANCE S615 : All versions >= V4.3 and < V6.4
+  - SCALANCE SC-600 Family : All versions >= V2.0 and < V2.1.3
+  - SCALANCE XB-200 : All versions < V4.1
+  - SCALANCE XC-200 : All versions < V4.1
+  - SCALANCE XF-200BA : All versions < V4.1
+  - SCALANCE XM400 : All versions < V6.2
+  - SCALANCE XP-200 : All versions < V4.1
+  - SCALANCE XR-300WG : All versions < V4.1
+  - SCALANCE XR500 : All versions < V6.2
+- Advisories SSA-875726 (CVSS 8.1) :
+  - Mendix Applications using Mendix 7 : All versions < V7.23.19
+  - Mendix Applications using Mendix 8 : All versions < V8.17.0
+  - Mendix Applications using Mendix 8 (V8.12) : All versions < V8.12.5
+  - Mendix Applications using Mendix 8 (V8.6) : All versions < V8.6.9
+  - Mendix Applications using Mendix 9 : All versions < V9.0.5
+- Advisories SSA-185699
+  - Nucleus NET:All versions < V5.2
+  - Nucleus RTOS:versions including affected DNS modules
+  - Nucleus Source Code:versions including affected DNS modules
+  - VSTAR:versions including affected DNS modules
+- Advisories SSA-187092
+  - SCALANCE X200-4P IRT:All versions < 5.5.1
+  - SCALANCE X201-3P IRT:All versions < 5.5.1
+  - SCALANCE X201-3P IRT PRO:All versions < 5.5.1
+  - SCALANCE X202-2 IRT:All versions < 5.5.1
+  - SCALANCE X202-2P IRT (incl. SIPLUS NET vari-ant):All versions < 5.5.1
+  - SCALANCE X202-2P IRT PRO:All versions < 5.5.1
+  - SCALANCE X204 IRT:All versions < 5.5.1
+  - SCALANCE X204 IRT PRO:All versions < 5.5.1
+  - SCALANCE X204-2 (incl. SIPLUS NET variant):All versions
+  - SCALANCE X204-2FM:All versions
+  - SCALANCE X204-2LD (incl. SIPLUS NET vari-ant):All versions
+  - SCALANCE X204-2LD TS:All versions
+  - SCALANCE X204-2TS:All versions
+  - SCALANCE X206-1:All versions
+  - SCALANCE X206-1LD:All versions
+  - SCALANCE X208 (incl. SIPLUS NET variant):All versions
+  - SCALANCE X208PRO:All versions
+  - SCALANCE X212-2 (incl. SIPLUS NET variant):All versions
+  - SCALANCE X212-2LD:All versions
+  - SCALANCE X216:All versions
+  - SCALANCE X224:All versions
+  - SCALANCE XF201-3P IRT:All versions < 5.5.1
+  - SCALANCE XF202-2P IRT:All versions < 5.5.1
+  - SCALANCE XF204:All versions
+  - SCALANCE XF204 IRT:All versions < 5.5.1
+  - SCALANCE  XF204-2  (incl.  SIPLUS  NET  vari-ant):All versions
+  - SCALANCE XF204-2BA IRT:All versions < 5.5.1
+  - SCALANCE XF206-1:All versions
+  - SCALANCE XF208:All versions
+- Advisories SSA-497656
+  - TIM 4R-IE (incl. SIPLUS NET variants):All versions
+  - TIM 4R-IE DNP3 (incl. SIPLUS NET variants):All versions
+- Advisories SSA-761844
+  - Control Center Server (CCS) : All versions >= V1.5.0only affected by CVE-2019-18340
+  - Control Center Server (CCS) : All versions < V1.5.0
+- Advisories SSA-788287 (CVSS 10)
+  - QMS Automotive : All versions < V12.30
+  - Opcenter Quality : All versions < V12.2
+- Advisories SSA-853866
+  - Siveillance Video Open Network Bridge : 2020 R3
+  - Siveillance Video Open Network Bridge : 2020 R2
+  - Siveillance Video Open Network Bridge : 2020 R1
+  - Siveillance Video Open Network Bridge : 2019 R3
+  - Siveillance Video Open Network Bridge : 2019 R2
+  - Siveillance Video Open Network Bridge : 2019 R1
+  - Siveillance Video Open Network Bridge : 2018 R3
+  - Siveillance Video Open Network Bridge : 2018 R2
+- Advisories SSA-983300
+  - LOGO! Soft Comfort : All versions
+- Advisories SSA-296266
+  - RUGGEDCOM RM1224 : V6.3
+  - SCALANCE M-800 : V6.3
+  - SCALANCE S615 : V6.3
+  - SCALANCE SC-600 : All Versions >= V2.1 and < V2.1.3
+
+Vulnerability risks:
+See Advisories
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [ssa-788287 Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-788287.pdf)
+- [EN] [ssa-875726 Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-875726.pdf)
+- [EN] [ssa-185699 Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-185699.pdf)
+- [EN] [ssa-187092 Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-187092.pdf)
+- [EN] [ssa-497656 Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-497656.pdf)
+- [EN] [ssa-761844 Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-761844.pdf)
+- [EN] [ssa-853866 Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-853866.pdf)
+- [EN] [ssa-983300 Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-983300.pdf)
+- [EN] [ssa-296266 Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-296266.pdf)
+- [EN] [ssa-455843 Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-455843.pdf)
+- [EN] [ssa-761617 Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-761617.pdf)
+- [EN] [ssa-763427 Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-763427.pdf)
+- [EN] [ssa-979775 Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-979775.pdf)
+
+---
+
 ## [VULNERABILITY] FATEK Automation WinProladder
 _08/04/2021_
 ```
