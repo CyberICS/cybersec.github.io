@@ -2,6 +2,31 @@
 
 ---
 
+## [VULNERABILITY] Siemens Mendix
+_28/04/2021_
+```
+Vulnerability affects :
+- Mendix Applications using Mendix 7: All versions prior to v7.23.19
+- Mendix Applications using Mendix 8: All versions prior to v8.17.0
+- Mendix Applications using Mendix 8 (v8.12): All versions prior to v8.12.5
+- Mendix Applications using Mendix 8 (v8.6): All versions prior to v8.6.9
+- Mendix Applications using Mendix 9: All versions prior to v9.0.5
+
+Vulnerability risks:
+- Privileges escalation
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-110-07)
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-875726.pdf)
+
+> ###### CVE :
+> - [EN] [CVE-2021-27394](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27394)
+
+---
+
 ## [VULNERABILITY] Eaton Intelligent Power Manager
 _28/04/2021_
 ```
