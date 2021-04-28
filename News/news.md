@@ -2,6 +2,28 @@
 
 ---
 
+## [VULNERABILITY] Delta Industrial Automation COMMGR
+_28/04/2021_
+```
+Vulnerability affects :
+- COMMGR: Version 1.12 and prior
+
+Vulnerability risks:
+- DoS
+- Remote code execution
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-110-03)
+- [EN] [Delta](https://downloadcenter.deltaww.com/en-US/DownloadCenter?v=1&CID=06&itemID=060301&dataType=8&sort_expr=cdate&sort_dir=DESC)
+
+> ###### CVE :
+> - [EN] [CVE-2021-27480](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27480)
+
+---
+
 ## [VULNERABILITY] Schneider Electric C-Bus Toolkit
 _15/04/2021_
 ```
