@@ -2,6 +2,31 @@
 
 ---
 
+## [VULNERABILITY] Moxa NPort
+_28/04/2021_
+```
+Vulnerability affects :
+- NPort IA5150A/IA5250A Series 	Firmware Version 1.4 or lower
+- NPort IA5450A Series 	Firmware version 1.7 or lower.
+
+Vulnerability risks:
+- Privilege escalation
+- Violation of data confidentiality
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Moxa](https://www.moxa.com/en/support/product-support/security-advisory/nport-ia5000a-serial-device-servers-vulnerabilities)
+
+> ###### CVE :
+> - [EN] [CVE-2020-27185](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-27185)
+> - [EN] [CVE-2020-27184](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-27184)
+> - [EN] [CVE-2020-27150](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-27150)
+> - [EN] [CVE-2020-27149](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-27149)
+
+---
+
 ## [VULNERABILITY] Siemens Mendix
 _28/04/2021_
 ```
