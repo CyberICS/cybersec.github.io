@@ -2,6 +2,33 @@
 
 ---
 
+## [VULNERABILITY] Vulnerabilities in Siemens JT2Go and Teamcenter Visualization
+_17/05/2021_
+```
+Vulnerability affects :
+- JT2Go:All versions < V13.1.0.2
+- Teamcenter Visualization:All versions < V13.1.0.2
+
+Vulnerability risks:
+- Application crash
+- Code execution
+- Data extraction
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Siemens](https://cert-portal.siemens.com/productcert/pdf/ssa-695540.pdf)
+
+> ###### CVE :
+> - [EN] [CVE-2020-26991](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26991)
+> - [EN] [CVE-2020-26998](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26998)
+> - [EN] [CVE-2020-26999](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-26999)
+> - [EN] [CVE-2020-27001](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27001)
+> - [EN] [CVE-2020-27002](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27002)
+
+---
+
 ## [VULNERABILITY] Multiple vulnerability in Siemens product
 _12/05/2021_
 ```
