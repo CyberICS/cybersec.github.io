@@ -2,6 +2,32 @@
 
 ---
 
+## [VULNERABILITY] Stack Overflow and XXE vulnerability in various OPC UA products
+_21/05/2021_
+```
+Vulnerability affects :
+- TwinCAT Scope Server TF3300 < TF3300 3.4.3144.11
+- TwinCAT OPC UA Configurator TS6100 < TS6100 4.3.46.0
+- TwinCAT OPC UA Configurator (Visual Studio) TF6100 < TF6100 4.3.46.0
+- TwinCAT Target Browser OPC UA Extension (TF6100, TF6720, TF3300 ) < TF6100 4.3.46.0
+- TwinCAT OPC UA Client System Manager Extension TF6100 < TF6100 4.3.46.0
+- TwinCAT OPC UA Sample Client < TS6100 4.3.46.0 and < TF6100 4.3.46.0
+
+Vulnerability risks:
+- Stack Overflow
+-  XXE vulnerability
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [Beckhoff](https://download.beckhoff.com/download/Document/product-security/Advisories/advisory-2021-002.pdf)
+
+> ###### CVE :
+> - [EN] [CVE-2015-6096](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2015-6096)
+
+---
+
 ## [VULNERABILITY] Emerson Rosemount X-STREAM
 _18/05/2021_
 ```
