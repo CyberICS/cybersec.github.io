@@ -2,6 +2,32 @@
 
 ---
 
+## [VULNERABILITY] Siemens Datakit Libraries bundled in Luxion KeyShot
+_25/05/2021_
+```
+Vulnerability affects :
+- Solid Edge SE2020 : All versions
+- Solid Edge SE2021 : All versions
+
+Vulnerability risks:
+- execution of arbitrary code 
+- disclosure of arbitrary files to unauthorized actors
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CERT SIEMENS](https://cert-portal.siemens.com/productcert/pdf/ssa-119468.pdf)
+
+> ###### CVE :
+> - [EN] [CVE-2021-27488](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27488)
+> - [EN] [CVE-2021-27492](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27492)
+> - [EN] [CVE-2021-27494](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27494)
+> - [EN] [CVE-2021-27496](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27496)
+> - [EN] [CVE-2021-27490](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2021-27490)
+
+---
+
 ## [VULNERABILITY] WAGO: Multiple Vulnerabilities in CODESYS Runtime 2.3
 _21/05/2021_
 ```
