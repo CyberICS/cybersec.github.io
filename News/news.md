@@ -2,6 +2,28 @@
 
 ---
 
+## [VULNERABILITY] GENIVI Alliance DLT
+_27/05/2021_
+```
+Vulnerability affects :
+- dlt-daemon (diagnostic log and trace) versions prior to 2.18.6
+
+Vulnerability risks:
+- remote code execution 
+- crash the application
+
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-147-01)
+- [EN] [GENIVI](https://github.com/GENIVI/dlt-daemon/releases)
+
+> ###### CVE :
+> - [EN] [CVE-2020-36244](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-36244)
+
+---
+
 ## [VULNERABILITY] MesaLabs AmegaView
 _27/05/2021_
 ```
