@@ -2,6 +2,29 @@
 
 ---
 
+## [VULNERABILITY] AVEVA System Platform
+_01/07/2021_
+```
+Vulnerability affects :
+- AVEVA System Platform versions 2017 through 2020 R2 P01 (inclusive)
+
+Vulnerability risks:
+- Execute code with system privileges or cause a denial-of-service
+
+Patch available :
+See the documents below for more information
+```
+
+> ###### Sources :
+- [EN] [CISA](https://us-cert.cisa.gov/ics/advisories/icsa-21-180-05)
+- [EN] [AVEVA](https://www.aveva.com/content/dam/aveva/documents/support/cyber-security-updates/SecurityBulletin_AVEVA-2021-002.pdf)
+
+> ###### CVE :
+> - [EN] [CVE-2021-33008](https://nvd.nist.gov/vuln/detail/CVE-2021-33008)
+> - [EN] [CVE-2021-33010](https://nvd.nist.gov/vuln/detail/CVE-2021-33010)
+
+---
+
 ## [VULNERABILITY] NPort IAW5000A-I/O Series Serial Device Server Vulnerabilities
 _28/05/2021_
 ```
